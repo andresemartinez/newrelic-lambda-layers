@@ -1,6 +1,7 @@
 {
   "name": "newrelic-lambda-layers",
   "version": "6.2.0",
+  "type": "module",
   "description": "New Relic Installer for serverless APM layers.",
   "main": "",
   "files": [
